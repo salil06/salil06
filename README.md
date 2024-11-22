@@ -1,5 +1,5 @@
 ## Data Analyst
-**Technical Skills: Python, SQL, Tableau, Microsoft Excel, Power Point, Google Analytics, Segment, Salesforce, AWS**
+**Technical Skills**: Python, SQL, Tableau, Microsoft Excel, Power Point, Google Analytics, Segment, Salesforce, AWS
 
 ### Eductation
 PG Diploma in Big Data Analytics
