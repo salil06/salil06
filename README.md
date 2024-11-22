@@ -2,13 +2,17 @@
 
 ### Eductation
 Master's Diploma in Big Data and Analytics
+
 CSE Computer Science
 
 ### Experience
 
 Adventus.io
+
 Zscaler Inc
+
 Dialpad 
+
 Honeywell Inc
 
 
