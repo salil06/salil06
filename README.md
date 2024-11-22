@@ -11,7 +11,7 @@ RGPV Bhopal • Bhopal • 2014
 ### Experience
 
 **Senior Data Analyst**
-**Adventus.io                                                                             January 2024 - Present, Pune, Maharashtra**
+**Adventus.io**                                                                           **January 2024 - Present, Pune, Maharashtra**
 
 • Collaborated closely with Product and Tech teams to fulfill their data requirements and conducted ad-hoc analyses to enhance product decisions and improve engagement.
 
@@ -27,7 +27,7 @@ RGPV Bhopal • Bhopal • 2014
 
 **Senior Data Analyst**
 
-**Zscaler                                                                                         March 2023 - January 2024, Remote**
+**Zscaler**                                                                                       **March 2023 - January 2024, Remote**
 
 • Collaborated with Business (Marketing, Sales teams) understanding their requirements and translating them into technical documents, BRDs and partnering with data engineering teams to translate requirements into machine learning models, reports, dashboards or analysis.
 
