@@ -1,4 +1,16 @@
-## Hi there 👋
+## Data Analyst
+
+### Eductation
+Master's Diploma in Big Data and Analytics
+CSE Computer Science
+
+### Experience
+
+Adventus.io
+Zscaler Inc
+Dialpad 
+Honeywell Inc
+
 
 <!--
 **salil06/salil06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
