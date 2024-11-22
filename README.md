@@ -95,4 +95,5 @@ RGPV Bhopal • Bhopal • 2014
 ##Projects
 
 **Dashboard Designs**
-  ![Exexutive Summary Dashboard](/assets/Executive Summary.png)
+
+  ![Exexutive Summary Dashboard](/assets/Executive_Summary.png)
