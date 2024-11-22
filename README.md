@@ -95,5 +95,6 @@ RGPV Bhopal • Bhopal • 2014
 ##Projects
 
 **Dashboard Designs**
-
-  ![Exexutive Summary Dashboard](/assets/Executive_Summary.png)
+  [**Sales Ops Dashboard**](https://public.tableau.com/app/profile/salil6731/viz/SalesOpsDashboard_17322792707840/ExecutiveSummary?publish=yes)
+  ![Sales Ops Dashboard](/assets/Executive_Summary.png)
+  Developed this dashboard to provide a holistic view of Sales funnel
