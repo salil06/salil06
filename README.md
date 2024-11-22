@@ -90,3 +90,9 @@ RGPV Bhopal • Bhopal • 2014
 • Engineered several SAP automations using Python and VBA scripts to streamline data retrieval processes, resulting in substantial productivity gains.
 
 • Successfully migrated numerous Excel-based reports to Tableau, automating workflows from end to end and significantly enhancing productivity across operations.
+
+
+##Projects
+
+**Dashboard Designs**
+  ![Exexutive Summary Dashboard](/assets/Executive Summary.png)
