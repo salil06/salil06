@@ -92,12 +92,12 @@ RGPV Bhopal • Bhopal • 2014
 • Successfully migrated numerous Excel-based reports to Tableau, automating workflows from end to end and significantly enhancing productivity across operations.
 
 
-###Projects
+***Projects***
 
 **Dashboard Designs**
   
--[**Product Ops Dashboard**](https://public.tableau.com/app/profile/salil6731/viz/ProductOpsDashboard/Analysis?publish=yes)
+-**Product Ops Dashboard - ** [Link](https://public.tableau.com/app/profile/salil6731/viz/ProductOpsDashboard/Analysis?publish=yes)
 ![Product Ops Dashboard](assets/Product_Ops.png)
 
--[**Recruiter Behaviour Dashboard**](https://public.tableau.com/app/profile/salil6731/viz/RecruiterPortalProductMetrics/Analysis?publish=yes)
+-**Recruiter Behaviour Dashboard -** [Link](https://public.tableau.com/app/profile/salil6731/viz/RecruiterPortalProductMetrics/Analysis?publish=yes)
 ![Recruiter Behaviour Dashboard](assets/Recruiter_Behaviour.png)
