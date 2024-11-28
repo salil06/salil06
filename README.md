@@ -98,8 +98,11 @@ RGPV Bhopal • Bhopal • 2014
   
 -**Product Ops Dashboard - ** [Link](https://public.tableau.com/app/profile/salil6731/viz/ProductOpsDashboard/Analysis?publish=yes)
 ![Product Ops Dashboard](assets/Product_Ops.png)
-
+Built this dashboard for the Operations team to understand conversions across different stages on the admission funnel. This helped them to track applications conversion percentages, TaT at each application stage.
 -**Recruiter Behaviour Dashboard -** [Link](https://public.tableau.com/app/profile/salil6731/viz/RecruiterPortalProductMetrics/Analysis?publish=yes)
 ![Recruiter Behaviour Dashboard](assets/Recruiter_Behaviour.png)
 
--**User Behaviour Analysis - ** [Link](assets/Masked_Recruiter_Persona.pdf)
+Created these dashboards to assist Product Managers in understanding which features are being used by platform users, as well as how the platform's adoption and engagement compare to the previous year. Additionally, the dashboard tracks user retention rates, providing insights into how many users are retained within each cohort.
+
+-**User Behaviour Analysis -** [Link](assets/Masked_Recruiter_Persona.pdf)
+The goal of this project was to understand the Recruiter persona by analyzing behavioral data from the Recruiter portal, collected through segment events. The analysis, based on data from January 2023 to February 2024, identified key features related to recruiter activity, such as student count, course searches, saved courses, shortlisted courses, and successful student placements. Four distinct clusters were identified, which helped teams prioritize application processing based on recruiter behavior.
