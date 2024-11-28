@@ -101,3 +101,5 @@ RGPV Bhopal • Bhopal • 2014
 
 -**Recruiter Behaviour Dashboard -** [Link](https://public.tableau.com/app/profile/salil6731/viz/RecruiterPortalProductMetrics/Analysis?publish=yes)
 ![Recruiter Behaviour Dashboard](assets/Recruiter_Behaviour.png)
+
+-**User Behaviour Analysis - ** [Link](assets/Masked_Recruiter_Persona.pdf)
